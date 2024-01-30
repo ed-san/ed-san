@@ -9,7 +9,7 @@ Highly motivated game dev/gamer with a passion for building meaningful experienc
 *   🌍  I'm based in San Francisco, CA
 *   🖥️  See my portfolio at [myWebsite](http://eddielsanchez.wixsite.com/portfolio)
 *   ✉️  You can contact me at [eddielusanchez@gmail.com](mailto:eddielusanchez@gmail.com)
-*   🚀  I'm currently working on [Color Rush(TBD) links to portfolio](http://https://eddielsanchez.wixsite.com/portfolio)
+*   🚀  I'm currently working on [Color Rush(TBD) links to portfolio](http://eddielsanchez.wixsite.com/portfolio)
 *   🧠  I'm learning Unity and Lightship
 *   🤝  I'm open to collaborating on Unity game projects
    
